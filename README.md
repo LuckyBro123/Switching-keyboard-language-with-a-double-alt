@@ -6,7 +6,7 @@ Programs are either launched or activated. If your convenient combinations like 
 This script can be started by clicking its icon. Using AutoHotkey, you can generate a standard .exe file from the script and place it in the startup folder. This results in a typical resident program that runs automatically in the background without any notifications.
 AutoHotkey  https://github.com/AutoHotkey/AutoHotkey
 
------- RUSSIAN
+**RUSSIAN**
 
 Этот скрипт AutoHotkey v2  всегда висит в памяти и позволяет запускать и активировать программы по горячей клавише. Также выполняет переключение языка ввода по двойному нажатию левого Alt
 
